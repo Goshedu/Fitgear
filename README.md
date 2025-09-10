@@ -5,23 +5,6 @@ Built with **Flutter** (frontend) and **Firebase** (backend), the app ensures a 
 
 ---
 
-## 📖 Project Report
-
-This repository contains the official **project report** and documentation for the **FitGear App**, prepared for the **Project Showcase (September 11th / 13th)**.  
-
-### Report Contents:
-- **Introduction** – Purpose and objectives of the project.  
-- **Problem Statement** – Challenges faced by fitness enthusiasts and how FitGear solves them.  
-- **Requirements**  
-  - Functional: User login, product browsing, cart, checkout.  
-  - Non-Functional: Secure authentication, responsive UI, caching, scalability.  
-- **Implementation Details** – Flutter widgets, Firebase Authentication, Firestore, Provider state management, navigation system.  
-- **Images/Screenshots** – Home, Product Detail, Cart, Checkout, Profile.  
-- **Limitations** – Mock payments, no real-time inventory tracking, no push notifications.  
-- **Conclusion** – Successes, lessons learned, and improvement areas.  
-
----
-
 ## 📂 Files in this Repository
 
 - 📄 **FitGear_Project_Report.docx** – Editable Word version.  
